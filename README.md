@@ -1,5 +1,19 @@
-# 💫 About Me:
-Hi there! I'm Sebastian. Welcome to my GitHub profile.<br><br>### About my experience<br><br>I've been programming for nearly 5 years and I'm extremely passionate about this field. My main interests revolve around MERN technologies (MongoDB, Express.js, React.js, Node.js), which I actively work with in my daily job. Over this time, I've gained a solid foundation in these technologies and I'm constantly expanding my knowledge.<br><br>### My projects<br><br>On my GitHub profile, you'll find a variety of projects that I've worked on, both as part of my learning journey and in practical applications. I strive to develop my skills by creating web applications that are both functional and visually appealing. I enjoy the opportunity to share my projects and code with other programmers.<br><br>### My goals<br><br>My main goal is to continuously grow my knowledge and programming skills. I aim to further specialize in the MERN stack and explore new technologies that enable me to build innovative solutions. Additionally, I'd like to actively engage with the programming community, share knowledge, and collaborate with fellow technology enthusiasts.<br><br>### Contact<br><br>If you're interested in collaborating or discussing programming, feel free to get in touch. You can find me on Facebook.<br><br>Thank you for visiting my GitHub profile, and feel free to explore my projects!<br><br>
+## 👋 Hi there! I'm Sebastian — Frontend Developer with backend experience.
+
+### 🧠 About Me
+I'm a self-taught developer with a strong focus on building modern, responsive web applications using React and Next.js. I have hands-on experience with both frontend and backend technologies, including TypeScript, Tailwind CSS, Node.js, and Express.
+
+### 💻 Tech Focus
+I work mainly with the React ecosystem (React, Next.js, React Query, styled-components, Chakra UI) and backend APIs (NestJS, Express). I’ve implemented authentication (NextAuth), CI/CD pipelines (GitHub Actions + Docker), and built admin panels with role-based access.
+
+### 🧪 Projects
+My GitHub showcases practical projects: e-commerce platforms, admin dashboards, CMS-like tools, and prototypes. I treat every project as a chance to explore architecture, reusability, and user experience.
+
+### 🎯 Goals
+I’m continuously improving my full-stack skills and aiming to contribute to product-oriented teams. I enjoy turning business logic into clean, scalable code.
+
+### 📫 Let’s connect
+Feel free to reach out or explore my projects. Collaboration, feedback, and learning from others is what makes dev work exciting!
 
 
 ## 🌐 Socials:
